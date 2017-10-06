@@ -26,3 +26,7 @@ BoardMember.prototype.sayHi = function(){
 class Ceo extends BoardMember{
   
 }
+
+Ceo.prototype.hireEmployee = fucntion(){
+  return "Welcome aboard"
+}
